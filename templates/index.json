@@ -44,17 +44,96 @@
         "buttons_cNGBcm"
       ],
       "settings": {
-        "image": "shopify://shop_images/general-clothes-natural-6.jpg",
-        "image_overlay_opacity": 30,
+        "image": "shopify://shop_images/Flux_Dev_A_sleek_and_sophisticated_highfashion_photograph_show_1.jpg",
+        "image_overlay_opacity": 0,
         "image_height": "large",
         "image_behavior": "none",
         "desktop_content_position": "bottom-left",
         "desktop_content_alignment": "left",
         "show_text_box": false,
-        "color_scheme": "background-1",
+        "color_scheme": "accent-3",
         "stack_images_on_mobile": true,
         "mobile_content_alignment": "left",
         "show_text_below": true
+      }
+    },
+    "collection_list_aejMDQ": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_8ep9CE": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_pHfPh6": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_dpfW3Y": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_8ep9CE",
+        "featured_collection_pHfPh6",
+        "featured_collection_dpfW3Y"
+      ],
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "Collections",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "accent-2",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collage_XgmQne": {
+      "type": "collage",
+      "blocks": {
+        "image_rFzJUX": {
+          "type": "image",
+          "settings": {}
+        },
+        "product_kfDmjp": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "second_image": false
+          }
+        },
+        "collection_fxpV6P": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_rFzJUX",
+        "product_kfDmjp",
+        "collection_fxpV6P"
+      ],
+      "name": "t:sections.collage.presets.name",
+      "settings": {
+        "heading": "Multimedia collage",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "accent-3",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "featured_collection": {
@@ -73,7 +152,7 @@
         "full_width": false,
         "show_view_all": false,
         "view_all_style": "link",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-2",
         "image_ratio": "adapt",
         "image_shape": "default",
         "show_secondary_image": false,
@@ -85,147 +164,12 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "rich_text_kapxtX": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_CDkg4j": {
-          "type": "heading",
-          "settings": {
-            "heading": "In the silence of the night, engines purr like whispers, elegance painted in shades of dreams.",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_CDkg4j"
-      ],
-      "settings": {
-        "desktop_content_position": "left",
-        "content_alignment": "left",
-        "color_scheme": "accent-1",
-        "full_width": true,
-        "padding_top": 100,
-        "padding_bottom": 100
-      }
-    },
-    "image_banner_w4DFXc": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_KRGrkL": {
-          "type": "heading",
-          "settings": {
-            "heading": "Elegance in Every Thread",
-            "heading_size": "h0"
-          }
-        },
-        "buttons_qUFTyT": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "View collection",
-            "button_link_1": "shopify://collections",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": true
-          }
-        }
-      },
-      "block_order": [
-        "heading_KRGrkL",
-        "buttons_qUFTyT"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/general-clothes-natural-2.jpg",
-        "image_overlay_opacity": 30,
-        "image_height": "large",
-        "image_behavior": "none",
-        "desktop_content_position": "bottom-left",
-        "desktop_content_alignment": "left",
-        "show_text_box": false,
-        "color_scheme": "accent-2",
-        "stack_images_on_mobile": true,
-        "mobile_content_alignment": "center",
-        "show_text_below": true
-      }
-    },
-    "rich_text_EBrBjT": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_3PPBPU": {
-          "type": "heading",
-          "settings": {
-            "heading": "We redefine fashion with our exclusive, luxury car-themed t-shirts, designed to make a statement.",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_3PPBPU"
-      ],
-      "settings": {
-        "desktop_content_position": "right",
-        "content_alignment": "right",
-        "color_scheme": "accent-1",
-        "full_width": true,
-        "padding_top": 100,
-        "padding_bottom": 100
-      }
-    },
-    "image_with_text_cUp9Di": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_fG8KWq": {
-          "type": "heading",
-          "settings": {
-            "heading": "About us",
-            "heading_size": "h1"
-          }
-        },
-        "text_N7Pyhg": {
-          "type": "text",
-          "settings": {
-            "text": "<p>We bring together luxury and style, merging the thrill of high-end automobiles with fashion that speaks of sophistication.</p>",
-            "text_style": "body"
-          }
-        },
-        "button_DJHkk6": {
-          "type": "button",
-          "settings": {
-            "button_label": "Learn more",
-            "button_link": "shopify://pages/contact",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_fG8KWq",
-        "text_N7Pyhg",
-        "button_DJHkk6"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/general-clothes-natural-4.jpg",
-        "height": "small",
-        "desktop_image_width": "large",
-        "layout": "image_first",
-        "image_behavior": "none",
-        "content_layout": "no-overlap",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "mobile_content_alignment": "left",
-        "section_color_scheme": "",
-        "color_scheme": "accent-1",
-        "padding_top": 100,
-        "padding_bottom": 100
-      }
     }
   },
   "order": [
     "image_banner_mBqgA9",
-    "featured_collection",
-    "rich_text_kapxtX",
-    "image_banner_w4DFXc",
-    "rich_text_EBrBjT",
-    "image_with_text_cUp9Di"
+    "collection_list_aejMDQ",
+    "collage_XgmQne",
+    "featured_collection"
   ]
 }

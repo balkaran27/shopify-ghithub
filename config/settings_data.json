@@ -189,22 +189,22 @@
       },
       "accent-2": {
         "settings": {
-          "background": "#203649",
+          "background": "#1a1a1d",
           "background_gradient": "",
-          "text": "#f8f4f0",
-          "button": "#fdfbf6",
+          "text": "#f5f5f5",
+          "button": "#4a0e0e",
           "button_label": "#72513c",
-          "secondary_button_label": "#fdfbf6",
+          "secondary_button_label": "#f5f5f5",
           "shadow": "#121212"
         }
       },
       "accent-3": {
         "settings": {
-          "background": "#72513c",
+          "background": "#0b0b0b",
           "background_gradient": "",
-          "text": "#fdfbf6",
-          "button": "#fdfbf6",
-          "button_label": "#72513c",
+          "text": "#f5f5f5",
+          "button": "#d4af37",
+          "button_label": "#4a0e0e",
           "secondary_button_label": "#fdfbf6",
           "shadow": "#121212"
         }
