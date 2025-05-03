@@ -44,9 +44,9 @@
         "buttons_cNGBcm"
       ],
       "settings": {
-        "image": "shopify://shop_images/Flux_Dev_A_sleek_and_sophisticated_highfashion_photograph_show_1.jpg",
+        "image": "shopify://shop_images/Add_a_subheading.png",
         "image_overlay_opacity": 0,
-        "image_height": "large",
+        "image_height": "medium",
         "image_behavior": "none",
         "desktop_content_position": "bottom-left",
         "desktop_content_alignment": "left",
@@ -63,7 +63,7 @@
         "featured_collection_8ep9CE": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "car-culture"
           }
         },
         "featured_collection_pHfPh6": {
@@ -89,7 +89,7 @@
         "title": "Collections",
         "heading_size": "h1",
         "image_ratio": "square",
-        "columns_desktop": 3,
+        "columns_desktop": 4,
         "color_scheme": "accent-2",
         "show_view_all": false,
         "columns_mobile": "1",
@@ -103,19 +103,21 @@
       "blocks": {
         "image_rFzJUX": {
           "type": "image",
-          "settings": {}
+          "settings": {
+            "image": "shopify://shop_images/Flux_Schnell_a_breathtakingly_detailed_ultrahighresolution_ill_2.jpg"
+          }
         },
         "product_kfDmjp": {
           "type": "product",
           "settings": {
-            "product": "",
-            "second_image": false
+            "product": "rby-gih",
+            "second_image": true
           }
         },
         "collection_fxpV6P": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "car-culture"
           }
         }
       },
